@@ -1,0 +1,15 @@
+# Raw data (download from Kaggle, see README)
+data/*.csv
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
